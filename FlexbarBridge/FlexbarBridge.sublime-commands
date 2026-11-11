@@ -1,0 +1,22 @@
+[
+  {
+    "caption": "Sublime Text: Flexbar-Menü bearbeiten",
+    "command": "flexbar_bridge_menu_editor"
+  },
+  {
+    "caption": "Sublime Text: Flexbar-Schnellauswahl",
+    "command": "flexbar_bridge_configure_menu"
+  },
+  {
+    "caption": "Sublime Text: Plugin-Befehle aktualisieren",
+    "command": "flexbar_bridge_reload"
+  },
+  {
+    "caption": "Sublime Text: Flexbar-Einstellungen",
+    "command": "flexbar_bridge_open_settings"
+  },
+  {
+    "caption": "Sublime Text: Flexbar-Verbindungsstatus",
+    "command": "flexbar_bridge_status"
+  }
+]

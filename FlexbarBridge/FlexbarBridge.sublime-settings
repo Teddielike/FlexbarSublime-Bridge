@@ -1,0 +1,14 @@
+{
+    "enabled": true,
+    "port": 17864,
+    "token": "",
+    // Sprache der Bridge-Oberfläche: "de", "en" oder "auto" (Sublime/LC_LANG).
+    "language": "de",
+    "custom_commands": [],
+    // Kleiner Indikator rechts in der Statusleiste: ● verbunden, ○ wartet auf FlexDesigner,
+    // ⇅ Datenaustausch, ✕ Bridge konnte nicht starten. false blendet ihn aus.
+    "status_indicator": true,
+    // Symbole, die auf der Flexbar leer bleiben (unbekannt in der MDI-Version des Geräts),
+    // z. B. ["rename", "cloud-sync-outline"]. Es wird dann das automatische Symbol bzw. Text verwendet.
+    "blocked_icons": []
+}

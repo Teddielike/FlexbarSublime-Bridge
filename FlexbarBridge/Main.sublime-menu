@@ -1,0 +1,32 @@
+[
+  {
+    "caption": "Preferences",
+    "children": [
+      {
+        "caption": "Sublime Text · Flexbar",
+        "children": [
+          {
+            "caption": "Menü bearbeiten…",
+            "command": "flexbar_bridge_menu_editor"
+          },
+          {
+            "caption": "Menü konfigurieren (Schnellauswahl)…",
+            "command": "flexbar_bridge_configure_menu"
+          },
+          {
+            "caption": "Befehlsliste aktualisieren",
+            "command": "flexbar_bridge_reload"
+          },
+          {
+            "caption": "Verbindungsstatus…",
+            "command": "flexbar_bridge_status"
+          },
+          {
+            "caption": "Einstellungen",
+            "command": "flexbar_bridge_open_settings"
+          }
+        ]
+      }
+    ]
+  }
+]
