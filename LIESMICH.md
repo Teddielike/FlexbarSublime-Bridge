@@ -1,4 +1,4 @@
-# FlexbarSublime-Sublime
+# FlexbarSublime-Bridge
 
 Sublime-Text-4-Bridge, mit der Sublime Text über FlexDesigner von einer Flexbar aus gesteuert werden
 kann.
@@ -28,7 +28,7 @@ Das erzeugte `FlexbarBridge.sublime-package` nach folgendem Ordner kopieren:
 ```
 
 Unter Windows den entsprechenden `Installed Packages`-Ordner von Sublime Text verwenden. Sublime Text
-nach der Installation neu starten. Das Package-Archiv und einen entpackten `FlexbarBridge`-Ordner nicht
+nach der Installation neu starten. Das Package-Archiv und eine entpackte Kopie des Packages nicht
 gleichzeitig installieren.
 
 ## Funktionen

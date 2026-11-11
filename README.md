@@ -1,8 +1,8 @@
-# FlexbarSublime-Sublime – Version 1.0.0
+# FlexbarSublime-Bridge – Version 1.0.0
 
 Sublime Text 4 bridge for controlling Sublime Text from a Flexbar through FlexDesigner.
 
-This repository is the Sublime Text component of the project. The companion FlexDesigner plugin is
+This repository is the Sublime Text bridge component of the project. The companion FlexDesigner plugin is
 available at [FlexbarSublime-Flexbar](https://github.com/Teddielike/FlexbarSublime-Flexbar).
 
 ![Project example](Flexbar-Sublime-Text-Menu.webp)
@@ -27,7 +27,7 @@ Copy the resulting `FlexbarBridge.sublime-package` to:
 ```
 
 On Windows, use Sublime Text's `Installed Packages` directory. Restart Sublime Text after installation.
-Do not install the package archive and an unpacked `FlexbarBridge` directory at the same time.
+Do not install the package archive and an unpacked copy of the package at the same time.
 
 ## Features
 

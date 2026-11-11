@@ -12,7 +12,7 @@ import urllib.error
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(__file__))
-FILE = os.path.join(ROOT, 'FlexbarBridge', 'flexbar_bridge.py')
+FILE = os.path.join(ROOT, 'flexbar_bridge.py')
 
 class FakeSettings:
     def __init__(self, data=None): self.data=dict(data or {})
