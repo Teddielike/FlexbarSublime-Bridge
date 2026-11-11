@@ -5,6 +5,8 @@ Sublime Text 4 bridge for controlling Sublime Text from a Flexbar through FlexDe
 This repository is the Sublime Text component of the project. The companion FlexDesigner plugin is
 available at [FlexbarSublime-Flexbar](https://github.com/Teddielike/FlexbarSublime-Flexbar).
 
+![Project example](Flexbar-Sublime-Text-Menu.webp)
+
 ## Requirements
 
 - Sublime Text 4
